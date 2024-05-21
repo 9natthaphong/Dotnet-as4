@@ -1,2 +1,2 @@
-adminlogin admin ,password do everything
-userlogin user,password only get
+********************************adminlogin use {admin ,password} do everything**************************************************************************************************************************************************
+*********************************userlogin use {user,password} only get********************************************************************
